@@ -18,4 +18,5 @@
 <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
 <img alt='NodeJS' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'/>
 <img alt='Express.js' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'/>
+<img alt='Recently played on spotify' src='https://spotify-recently-played-readme.vercel.app/api?user=31kohzeytytjhdulgtsg3wchj2ea' />
 </p>
