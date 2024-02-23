@@ -1,7 +1,10 @@
-<p align=center>  <strong> Hello 👋</strong> <p>
 <p align=center>  
-   My name is Odie Andriampeno, I'm <strong>a backend developer</strong>
-<p>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%20Hello%20&size=18'>
+</p>
+
+<p align=center>  
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20%20My%20name%20is%20Andriampeno%20Odie%20&size=18'>
+</p>
 
 <div>
    <p align=center>
