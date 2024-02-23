@@ -20,3 +20,7 @@
 <img alt='Express.js' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'/>
 <!-- <img alt='Recently played on spotify' src='https://spotify-recently-played-readme.vercel.app/api?user=31kohzeytytjhdulgtsg3wchj2ea' /> -->
 </p>
+
+<p align=center>  <strong>
+<img src='https://komarev.com/ghpvc/?username=odie100&color=008080'>
+</strong> <p>
