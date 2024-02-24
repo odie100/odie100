@@ -2,11 +2,11 @@
   <img src='https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Be%20like%20a%20water%20my%20friend&reversal=false&fontSize=30' >
 </p>
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%20Hello%20&size=18'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=8EB573&center=true&lines=%20Hello%20&size=18'>
 </p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20%20My%20name%20is%20Andriampeno%20Odie%20&size=18'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=8EB573&center=true&lines=%24%20%20My%20name%20is%20Andriampeno%20Odie%20&size=18'>
 </p>
 
 <div>
