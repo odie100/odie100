@@ -1,5 +1,5 @@
 <p align=center>
-  <img src='https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=Be%20like%20a%20water%20my%20friend&reversal=false' >
+  <img src='https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Be%20like%20a%20water%20my%20friend&reversal=false' >
 </p>
 <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%20Hello%20&size=18'>
