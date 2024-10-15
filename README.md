@@ -1,5 +1,14 @@
 <p align=center>
   <img src='https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Be%20like%20a%20water%20my%20friend&reversal=false&fontSize=30&fontColor=FFFFFF' >
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=8EB573&center=true&lines=%20https://www.andriampeno.me&size=18'>
+</p>
+ 
+<p align=center>
+   <a href="https://app.daily.dev/odie78"><img src="https://api.daily.dev/devcards/v2/Msmu5uKvOcAN9xFpFVxOy.png?r=1jj&type=wide" width="600" alt="Odie's Dev Card"/></a>
+</p>
+<!-- 
+<p align=center>
+  <img src='https://capsule-render.vercel.app/api?type=venom&height=150&color=timeGradient&text=Be%20like%20a%20water%20my%20friend&reversal=false&fontSize=30&fontColor=FFFFFF' >
 </p>
 <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=8EB573&center=true&lines=%20Hello%20&size=18'>
@@ -12,11 +21,11 @@
 <div>
    <p align=center>
       <img src="http://github-readme-streak-stats.herokuapp.com?user=odie100&theme=onedark&hide_border=true&mode=weekly)](https://git.io/streak-stats" alt="My github profile Statistics" /> <br/><br/>
-<!--       <img src="https://github-readme-stats.vercel.app/api?username=odie100&show_icons=true&theme=slateorange" alt="My github profile Statistics"/><br/><br/> -->
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=odie100&show_icons=true&theme=slateorange" alt="My github profile Statistics"/><br/><br/> 
       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=odie100&count_private=true&theme=tokyonight&&layout=donut" alt="My github profile Statistics"/>
    </p>
 </div>
-
+-->
 <p align='center'>
 <img alt='Java' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
 <img alt='Spring' src='https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white'/>
