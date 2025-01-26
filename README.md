@@ -5,7 +5,9 @@
  
 <p align=center>
    <a href="https://app.daily.dev/odie78"><img src="https://api.daily.dev/devcards/v2/Msmu5uKvOcAN9xFpFVxOy.png?r=1jj&type=wide" width="600" alt="Odie's Dev Card"/></a><br/><br/>
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=odie100&theme=onedark&hide_border=true&mode=weekly)](https://git.io/streak-stats" alt="My github profile Statistics" /> <br/><br/>
+<!--    <img src="http://github-readme-streak-stats.herokuapp.com?user=odie100&theme=onedark&hide_border=true&mode=weekly)](https://git.io/streak-stats" alt="My github profile Statistics" /> <br/><br/> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=odie100&theme=graywhite&show_icons=true&show=" alt="My github profile Statistics" /> <br/><br/> -->
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) -->
 </p>
 <!-- 
 <p align=center>
